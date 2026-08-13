@@ -4,7 +4,7 @@ public:
         std::unordered_map<int, int> solMap; 
         vector<int> sol; 
 
-        for(int i=0; i<nums.size(); i++) {
+        for(int i=0; i<nums.size(); i++) { 
             int diff = target - nums[i]; 
             if(solMap.contains(diff)) {
                 sol = {i, solMap[diff]}; 
