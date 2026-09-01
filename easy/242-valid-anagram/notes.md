@@ -1,5 +1,15 @@
 # 242. Valid Anagram
 
+## cpp — v3 (2026-09-01)
+
+- Problem: https://leetcode.com/problems/valid-anagram/
+- Time complexity: O(n)
+- Space complexity: O(n)
+- Solution file: [`cpp_v3.cpp`](./cpp_v3.cpp)
+
+_No notes provided._
+
+---
 ## cpp — v2 (2026-08-14)
 
 - Problem: https://leetcode.com/problems/valid-anagram/
