@@ -1,5 +1,15 @@
 # 217. Contains Duplicate
 
+## python3 — v1 (2026-10-17)
+
+- Problem: https://leetcode.com/problems/contains-duplicate/
+- Time complexity: _not specified_
+- Space complexity: _not specified_
+- Solution file: [`python3_v1.py`](./python3_v1.py)
+
+trying out python...
+
+---
 ## cpp — v3 (2026-10-09)
 
 - Problem: https://leetcode.com/problems/contains-duplicate/
