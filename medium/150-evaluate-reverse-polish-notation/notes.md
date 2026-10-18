@@ -1,5 +1,15 @@
 # 150. Evaluate Reverse Polish Notation
 
+## cpp — v2 (2026-10-18)
+
+- Problem: https://leetcode.com/problems/evaluate-reverse-polish-notation/
+- Time complexity: _not specified_
+- Space complexity: _not specified_
+- Solution file: [`cpp_v2.cpp`](./cpp_v2.cpp)
+
+slightly faster sol using const string& s
+
+---
 ## cpp — v1 (2026-10-18)
 
 - Problem: https://leetcode.com/problems/evaluate-reverse-polish-notation/
